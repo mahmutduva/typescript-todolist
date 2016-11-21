@@ -1,0 +1,19 @@
+{
+  "name": "typescript-todo",
+  "version": "0.1.0",
+  "description": "typescript-todo",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress --inline"
+  },
+  "keywords": [],
+  "author": "Mahmut Duva",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.8.10",
+    "ts-loader": "^0.9.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {}
+}
